@@ -1,5 +1,6 @@
-☄️ Fireball jump
-Simple plugin that allows to Fireball jump
+☄️ Fireball jump 
+Simple plugin that allows players to Fireball jump.
+
 
 📜 Commands  
 `/fireball reload` – reload configuration
