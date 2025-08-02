@@ -1,0 +1,9 @@
+colldown: 500 #in ms
+damage: 0.0
+vertical-kb: 1.5
+horizontal-kb: 1.6
+despawn-rate: 10 #in s
+Allowed-blocks:
+  - RED_WOOL
+  - BLUE_WOOL
+Ignite-block: false
