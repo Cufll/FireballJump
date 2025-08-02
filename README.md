@@ -9,3 +9,6 @@ Simple plugin that allows players to Fireball jump.
 
 ## 🔐 Permissions  
 `fireball.reload` – reload configuration
+
+## 💥 Features
+Custom vertical & horizontal kb from fireball.
