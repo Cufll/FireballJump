@@ -12,3 +12,4 @@ Simple plugin that allows players to Fireball jump.
 
 ## 💥 Features
 Custom vertical & horizontal kb from fireball.
+Colldown for fireballs.
